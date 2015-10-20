@@ -1,4 +1,8 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
+puts "Hi! I'm HAnL, what's your name?"
+name = gets.strip.upcase
+
+greeting(name)
 
 # code your CLI here!
