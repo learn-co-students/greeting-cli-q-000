@@ -1,6 +1,6 @@
 # Greeting Cli
 
-## Objectives
+## Objectives!!!
 
 1. Build a CLI (command line interface) application.
 2. Become familiar with the structure of a CLI application.
