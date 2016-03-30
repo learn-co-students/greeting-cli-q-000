@@ -6,7 +6,7 @@ def greeting(name)
  puts {greeting("Sally")}
 
 puts "Hello Sally. It's nice to meet you."
-
+#puts "Hello #{greeting("Sally")}. It's nice to meet you."
 end
 
 
