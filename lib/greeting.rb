@@ -1,6 +1,4 @@
 # code the #greeting method here!
-require 'date'
-
 
 
 def greeting(name)
