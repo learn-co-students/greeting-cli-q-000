@@ -1,4 +1,4 @@
-
-  puts "Hello #{"name"}. It's nice to meet you."
+def display_greeting(greeting)
+  puts "Hello #{name}. It's nice to meet you."
 name = gets.chomp
 
