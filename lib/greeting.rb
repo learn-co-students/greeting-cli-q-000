@@ -1,1 +1,4 @@
-# code the #greeting method here!
+puts "hello(name)"
+  puts "Hello #{name}. It's nice to meet you"
+    name= gets.strip
+
