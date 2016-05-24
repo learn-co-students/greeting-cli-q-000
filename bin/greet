@@ -1,4 +1,9 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
 
-# code your CLI here!
+# Actual code to display the initial greeting
+puts "Hi! I'm HAL, what's your name?"
+# This step obtains the name input from the user
+name = gets.strip
+# Use the greeting method from the library to print the user welcome greeting
+greeting(name)
