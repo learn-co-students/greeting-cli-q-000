@@ -1,4 +1,9 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
 
+hal_says_hello
+name = ''
+name = get_strangers_name(name)
+
+greeting(name)
 # code your CLI here!
