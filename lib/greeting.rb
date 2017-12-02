@@ -1,1 +1,4 @@
-# code the #greeting method here!
+# Defining the greeting function
+def greeting(name)
+  puts "Hello #{name}. It's nice to meet you."
+end
